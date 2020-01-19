@@ -1,4 +1,4 @@
-# Dev enironment files
+.gitignore
 db.sqlite3
 packages.microsoft.gpg
 python_client_api/__pycache__/*
