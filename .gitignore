@@ -1,0 +1,6 @@
+# Dev enironment files
+db.sqlite3
+packages.microsoft.gpg
+python_client_api/__pycache__/*
+polls/__pycache__/*
+*.deb
